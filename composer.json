@@ -1,0 +1,27 @@
+{
+    "name": "Sixbyte",
+    "description": "The Sixbyte Framework.",
+    "keywords": ["framework", "Sixbyte"],
+    "license": "MIT",
+    "type": "project",
+    "require": {
+    },
+    "require-dev": {
+    },
+    "autoload": {
+        "classmap": [
+        ],
+        "psr-4": {
+            "App\\": "app/",
+            "Sixbyte\\": "sixbyte/"
+        }
+    },
+    "autoload-dev": {
+        "classmap": [
+        ]
+    },
+    "scripts": {
+    },
+    "config": {
+    }
+}
